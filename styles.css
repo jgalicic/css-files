@@ -1,3 +1,30 @@
 * {
-	text-shadow: -1px 1px 5px rgba(0, 0, 0, 0.7) !important; 
+  text-shadow: -1px 1px 5px rgba(0, 0, 0, 0.7) !important;
+}
+
+.fw-gc-feed-item-location {
+  color: tomato !important;
+}
+
+.fw-gc-container,
+.fw-gc-feed-header-title,
+.fw-gc-feed-title,
+.fa-calendar,
+.fw-gc-feed-items-scroll-area,
+.scroll-pane,
+.fw-gc-feed-items,
+.fw-gc-feed-item,
+.fw-gc-item-001,
+.fw-gc-feed-item-title,
+.fw-gc-feed-item-location,
+.fa-map-marker,
+.fw-gc-feed-item-description,
+.fw-gc-feed-item-date,
+.fa,
+.fa-clock-o,
+.fw-gc-feed-item,
+.fw-gc-item-002,
+.fw-branding {
+  outline: 1px solid red;
+  color: blue;
 }
