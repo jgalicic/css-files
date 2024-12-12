@@ -1,10 +1,3 @@
-* {
-  text-shadow: -1px 1px 5px rgba(0, 0, 0, 0.7) !important;
-}
-
-.fw-gc-feed-item-location {
-  color: tomato !important;
-}
 
 .fw-gc-container,
 .fw-gc-feed-header-title,
@@ -25,6 +18,6 @@
 .fw-gc-feed-item,
 .fw-gc-item-002,
 .fw-branding {
-  outline: 1px solid red;
-  color: blue;
+  text-shadow: -1px 1px 5px rgba(0, 0, 0, 0.7) !important;
+  color: #fff3df;
 }
